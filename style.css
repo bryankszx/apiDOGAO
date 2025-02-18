@@ -1,0 +1,10 @@
+.galeria img{
+    height: 15vh;
+    align-items: center;
+   border-radius: 20px;
+  padding: 10px;
+}
+
+body{
+    background-color: rgb(73, 38, 73);
+}
